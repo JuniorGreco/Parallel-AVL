@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tree-Parallel", "Tree-Parallel\Tree-Parallel.csproj", "{5AF7DABC-0F26-4CBD-8D37-EA7112A1B50D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5AF7DABC-0F26-4CBD-8D37-EA7112A1B50D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AF7DABC-0F26-4CBD-8D37-EA7112A1B50D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AF7DABC-0F26-4CBD-8D37-EA7112A1B50D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AF7DABC-0F26-4CBD-8D37-EA7112A1B50D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E5D9DA0-41EE-4719-BD82-B7AD43A6BE63}
+	EndGlobalSection
+EndGlobal
