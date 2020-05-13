@@ -1,4 +1,4 @@
-#Árvore binária do tipo AVL - Paralela
+Árvore binária do tipo AVL - Paralela
 
 O Software permite:
 
